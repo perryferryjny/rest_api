@@ -9,4 +9,4 @@ rest_api\venv\Scripts\activate
 python rest_api\client.py
 
 goal:
-get {'success': true} on client output
+get {"success": true} on client's output
